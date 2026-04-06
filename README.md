@@ -15,7 +15,7 @@ This script checks whether a given number is a prime number.
 - Uses a loop up to the square root of the number for efficient checking.
 - Prompts the user to enter a number and prints whether it is prime.
 
-**Example Usage:**
+
 
 ---
 
@@ -30,7 +30,7 @@ This script finds the largest number in a list provided by the user.
 - Iterates through the list and compares each number to determine the largest.
 - Prompts the user to enter numbers separated by spaces and prints the largest number.
 
-**Example Usage:**
+
 
 ---
 
@@ -45,4 +45,4 @@ This script implements a command-line interface (CLI) calculator that can perfor
 - Handles invalid inputs and division by zero gracefully.
 - Prints the result of the selected operation.
 
-**Example Usage:**
+
